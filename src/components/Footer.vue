@@ -19,11 +19,6 @@
             >www.flaticon.com</a
           >
         </div>
-        <img :src="tmdbLogo" alt="TMDB Logo" class="w-12" />
       </div>
     </footer>
   </template>
-  
-  <script setup>
-    import tmdbLogo from '~/assets/tmdb.svg'
-  </script>
